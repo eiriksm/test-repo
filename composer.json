@@ -1,5 +1,5 @@
 {
     "require": {
-        "eiriksm/gitinfo": "^1.0"
+        "eiriksm/gitinfo": "1.0"
     }
 }

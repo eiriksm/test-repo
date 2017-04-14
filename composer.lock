@@ -4,27 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a81c1c6c8775db1221bfd8306b6af017",
+    "content-hash": "68cb5ed21a8ab345e4a8647246586615",
     "packages": [
         {
             "name": "eiriksm/gitinfo",
-            "version": "1.1.0",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eiriksm/php-app-git-version.git",
-                "reference": "1bd5f007c73f1af38b86e57026f4dd61bd533a76"
+                "reference": "d821d022d4ab1b49ecefb1ac9b718c79537552f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eiriksm/php-app-git-version/zipball/1bd5f007c73f1af38b86e57026f4dd61bd533a76",
-                "reference": "1bd5f007c73f1af38b86e57026f4dd61bd533a76",
+                "url": "https://api.github.com/repos/eiriksm/php-app-git-version/zipball/d821d022d4ab1b49ecefb1ac9b718c79537552f4",
+                "reference": "d821d022d4ab1b49ecefb1ac9b718c79537552f4",
                 "shasum": ""
             },
             "require": {
                 "pastuhov/php-exec-command": "^1.1"
             },
             "require-dev": {
-                "phpunit/phpunit": "^5.0",
+                "phpunit/phpunit": "^6.0",
                 "satooshi/php-coveralls": "^1.0"
             },
             "type": "library",
@@ -35,7 +35,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Get some git info about your application",
-            "time": "2017-03-17T13:11:37+00:00"
+            "time": "2017-03-17T12:55:28+00:00"
         },
         {
             "name": "pastuhov/php-exec-command",
